@@ -1,0 +1,6 @@
+2025-03-02T06:57:05.308Z - Application Started... 
+2025-03-02T06:57:05.309Z - Application Event Occured! 
+2025-03-02T06:57:08.322Z - Current memory usage: 16.49 
+2025-03-02T06:57:11.329Z - Current memory usage: 16.64 
+2025-03-02T06:57:14.344Z - Current memory usage: 16.75 
+2025-03-02T06:57:17.352Z - Current memory usage: 16.86 
