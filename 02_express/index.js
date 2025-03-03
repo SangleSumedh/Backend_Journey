@@ -50,7 +50,7 @@ app.delete('/tea/:id', (req,res) => {
         return res.status(404).send('Tea not found')
     } 
     teaData.splice(teaIndex,1)
-    return res.status(204).send('Deleted!')
+    return res.status(200).send('Deleted!')
 
 })
 
